@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vorgi71
 - 👀 I’m interested in Groovy, Java, Typescript
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Kotlin and Compose Multiplatform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
